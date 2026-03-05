@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000"
+  baseURL: "https://login-backend-r91o.onrender.com"
 });
 
 export const loginUser = (data) => API.post("/login", data);
