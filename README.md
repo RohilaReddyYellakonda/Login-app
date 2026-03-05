@@ -1,5 +1,11 @@
 # Full-Stack Login Application (React + Node.js)
 
+## Live Demo
+https://login-app-six-xi.vercel.app
+
+## GitHub Repository
+https://github.com/RohilaReddyYellakonda/Login-app.git
+
 ## 📌 Overview
 
 This project is a simple **Full-Stack Login Application** built using **React (Frontend)** and **Node.js with Express (Backend)**.
@@ -56,7 +62,7 @@ Login-app
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/login-app.git
+git clone https://github.com/RohilaReddyYellakonda/login-app.git
 cd login-app
 ```
 
